@@ -3,5 +3,5 @@ import os
 
 merger = PyPDF2.PdfMerger()
 
-lista_arquivos = os.listdir()
+lista_arquivos = os.listdir("arquivos")
 print(lista_arquivos)
