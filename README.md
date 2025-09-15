@@ -37,4 +37,5 @@ Este projeto é uma **ferramenta simples em Python para mesclar arquivos PDF** e
 
 5. Execute o script:
 
+    ```bash
    python pdf-automacao.py
