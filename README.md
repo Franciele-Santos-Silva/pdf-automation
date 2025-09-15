@@ -15,27 +15,22 @@ Este projeto é uma **ferramenta simples em Python para mesclar arquivos PDF** e
 
 ## Como usar
 
-1. Instale a biblioteca PyPDF2:
-
-   ```bash
-   pip install PyPDF2
-
-2. Crie um ambiente virtual(opcional)
+1. Crie um ambiente virtual(opcional)
 
     ```bash
     python -m venv venv
 
-3. Ative o ambiente virtual
+2. Ative o ambiente virtual
 
     ```bash
     venv\Scripts\activate
 
-4. Instale a biblioteca PyPDF2:
+3. Instale a biblioteca PyPDF2:
 
    ```bash
    pip install PyPDF2
 
-5. Execute o script:
+4. Execute o script:
 
     ```bash
    python pdf-automacao.py
