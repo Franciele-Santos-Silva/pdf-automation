@@ -1,6 +1,6 @@
 # PDF Automation - Mesclar PDFs com Python
 
-Este projeto é uma **ferramenta simples em Python para mesclar arquivos PDF** em um único documento de forma automatizada.
+Este projeto é uma **ferramenta simples em Python para mesclar arquivos PDF** em um único documento de forma automatizada. Ao final do processo, todos os PDFs são combinados em um arquivo chamado PDF Final.pdf, que pode ser encontrado nos arquivos do projeto.
 
 ## Funcionalidades
 
